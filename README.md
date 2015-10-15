@@ -18,6 +18,7 @@ scexec: Takes shellcode in the format
 and runs the hell out of it!
 
 Usage: ./scexec { [options] | "shellcode" }
+
 NOTES:
     - Use double quotes for your shellcode
     - Remember, \x00 is a bad char
